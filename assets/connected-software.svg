@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="144" viewBox="0 0 1280 144" role="img" aria-labelledby="title description">
+  <title id="title">Connected software</title>
+  <desc id="description">A narrow slate canvas with branching paths, modular nodes, and restrained blue connection points.</desc>
+  <rect width="1280" height="144" rx="12" fill="#151c27"/>
+  <g fill="none" stroke="#8494a9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 72H208"/>
+    <path d="M208 72C260 72 264 36 312 36H344C392 36 396 72 448 72"/>
+    <path d="M208 72C260 72 264 108 312 108H344C392 108 396 72 448 72"/>
+    <path d="M448 72H560"/>
+    <path d="M584 72C620 72 616 32 656 32H696C736 32 732 72 772 72"/>
+    <path d="M584 72H772"/>
+    <path d="M584 72C620 72 616 112 656 112H696C736 112 732 72 772 72"/>
+    <path d="M796 72H896"/>
+    <path d="M896 72C948 72 948 40 1000 40H1056C1108 40 1108 72 1160 72H1200"/>
+    <path d="M896 72C948 72 948 104 1000 104H1056C1108 104 1108 72 1160 72"/>
+  </g>
+  <g fill="none" stroke="#739fd8" stroke-width="3" stroke-linecap="round">
+    <path d="M312 36H344"/>
+    <path d="M656 72H696"/>
+    <path d="M1000 104H1056"/>
+  </g>
+  <g fill="#151c27" stroke="#adbbcc" stroke-width="2">
+    <circle cx="80" cy="72" r="5"/>
+    <circle cx="208" cy="72" r="6"/>
+    <circle cx="448" cy="72" r="6"/>
+    <circle cx="896" cy="72" r="6"/>
+    <circle cx="1160" cy="72" r="6"/>
+    <circle cx="1200" cy="72" r="5"/>
+    <rect x="316" y="98" width="20" height="20" rx="5"/>
+    <rect x="666" y="22" width="20" height="20" rx="5"/>
+    <rect x="666" y="102" width="20" height="20" rx="5"/>
+    <rect x="1018" y="30" width="20" height="20" rx="5"/>
+  </g>
+  <g fill="#203650" stroke="#739fd8" stroke-width="2">
+    <rect x="560" y="60" width="24" height="24" rx="6"/>
+    <rect x="772" y="60" width="24" height="24" rx="6"/>
+    <circle cx="328" cy="36" r="6"/>
+    <circle cx="676" cy="72" r="6"/>
+    <circle cx="1036" cy="104" r="6"/>
+  </g>
+</svg>
