@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="28" viewBox="0 0 84 28" role="img" aria-labelledby="title">
+  <title id="title">Python</title>
+  <rect x="0.5" y="0.5" width="83" height="27" rx="8" fill="#182c42" stroke="#527697"/>
+  <g fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 9L8 14L12 19" stroke="#79b8e8"/>
+    <path d="M17 9L21 14L17 19" stroke="#ffd36c"/>
+  </g>
+  <text x="29" y="18.5" fill="#f0f6fc" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="600">Python</text>
+</svg>

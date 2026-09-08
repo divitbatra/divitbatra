@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="83" height="28" viewBox="0 0 83 28" role="img" aria-labelledby="title">
+  <title id="title">Django</title>
+  <rect x="0.5" y="0.5" width="82" height="27" rx="8" fill="#19372e" stroke="#3d846b"/>
+  <g fill="none" stroke="#70d5ad" stroke-width="1.8" stroke-linejoin="round">
+    <path d="M8 14L14.5 17.5L21 14M8 18L14.5 21.5L21 18"/>
+    <path d="M8 10L14.5 6.5L21 10L14.5 13.5Z"/>
+  </g>
+  <text x="29" y="18.5" fill="#f0f6fc" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="600">Django</text>
+</svg>

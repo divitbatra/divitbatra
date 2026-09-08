@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="79" height="28" viewBox="0 0 79 28" role="img" aria-labelledby="title">
+  <title id="title">Flutter</title>
+  <rect x="0.5" y="0.5" width="78" height="27" rx="8" fill="#192f4a" stroke="#4978a8"/>
+  <g fill="none" stroke="#74bdff" stroke-width="1.8" stroke-linejoin="round">
+    <rect x="8" y="7" width="10" height="10" rx="2"/>
+    <rect x="12" y="11" width="10" height="10" rx="2" fill="#192f4a"/>
+  </g>
+  <text x="29" y="18.5" fill="#f0f6fc" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="600">Flutter</text>
+</svg>

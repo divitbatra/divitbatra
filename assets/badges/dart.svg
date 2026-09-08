@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="67" height="28" viewBox="0 0 67 28" role="img" aria-labelledby="title">
+  <title id="title">Dart</title>
+  <rect x="0.5" y="0.5" width="66" height="27" rx="8" fill="#16333b" stroke="#367f8b"/>
+  <path d="M14 8L20 14L14 20M8 14H19" fill="none" stroke="#56d8df" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="29" y="18.5" fill="#f0f6fc" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="600">Dart</text>
+</svg>

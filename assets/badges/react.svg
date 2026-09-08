@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="73" height="28" viewBox="0 0 73 28" role="img" aria-labelledby="title">
+  <title id="title">React</title>
+  <rect x="0.5" y="0.5" width="72" height="27" rx="8" fill="#15303b" stroke="#387e91"/>
+  <g fill="#61dafb">
+    <rect x="8" y="7.5" width="5" height="5" rx="1.5"/>
+    <rect x="16" y="7.5" width="5" height="5" rx="1.5"/>
+    <rect x="8" y="15.5" width="5" height="5" rx="1.5"/>
+    <rect x="16" y="15.5" width="5" height="5" rx="1.5"/>
+  </g>
+  <text x="29" y="18.5" fill="#f0f6fc" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="600">React</text>
+</svg>
