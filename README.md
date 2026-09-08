@@ -1,10 +1,18 @@
-![An abstract software graph with branching paths and blue connection points.](assets/connected-software.svg)
+<div align="center">
+
+![An abstract software graph with cyan, blue, violet, and amber paths connecting modular nodes.](assets/connected-software.svg)
 
 # Divit Batra
 
 **BSc Computing Science at the University of Alberta. Expected graduation: 2028.**
 
 I build full-stack applications and AI-assisted tools, with an interest in dependable automation.
+
+![Python](assets/badges/python.svg) ![JavaScript](assets/badges/javascript.svg) ![React](assets/badges/react.svg) ![Node.js](assets/badges/nodejs.svg) ![Dart](assets/badges/dart.svg) ![Flutter](assets/badges/flutter.svg) ![Django](assets/badges/django.svg)
+
+[Projects](#selected-work) &middot; [Toolbox](#toolbox) &middot; [Exploring](#exploring)
+
+</div>
 
 ## Selected work
 
@@ -28,11 +36,9 @@ A Django dealership-review application with relational car models and cloud-back
 
 An API for searching books and adding, updating, or deleting user-associated reviews. Separate routers organize public and review operations, with asynchronous lookups and in-memory sample data.
 
-## Across public work
+## Toolbox
 
-- **Applications:** Flutter, React, Django, Node.js/Express.
-- **Languages:** Dart, Python, JavaScript.
-- **Integration:** HTTP APIs, relational modeling, hosted AI services.
+The common threads: HTTP APIs, relational modeling, and hosted AI services.
 
 Alongside these projects, I'm studying the foundations of Computing Science.
 
@@ -40,6 +46,6 @@ Alongside these projects, I'm studying the foundations of Computing Science.
 
 Make failure paths visible, keep AI output inspectable, and design workflows people can understand. These are the standards I want my work to meet.
 
-## Current direction
+## Exploring
 
 I'm exploring AI-assisted workflows, developer tooling, and reliable automation.
