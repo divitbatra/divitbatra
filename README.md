@@ -24,21 +24,21 @@ A Flutter interface for reviewing social-media comments and surfacing AI moderat
 
 HackED 2024 AltaML Challenge winner.
 
+### Lumina Data Assistant
+
+**React / Flask / pandas** | Data analysis application | [Source](https://github.com/divitbatra/lumina)
+
+A web application for cleaning, analyzing, and visualizing tabular data. A React interface connects CSV/XLSX uploads to Flask and pandas workflows, with descriptive statistics, charts, and downloadable cleaned datasets.
+
 ### Cloud App Development Capstone
 
 **Django / Python** | IBM full-stack coursework | [Source](https://github.com/divitbatra/Cloud-App-Development-Capstone) / [Architecture](https://github.com/divitbatra/Cloud-App-Development-Capstone/blob/master/capstone-project-model.png)
 
 A Django dealership-review application with relational car models and cloud-backed review data. SQLite stores car models; Cloud Functions connect the authenticated review workflow to Cloudant.
 
-### Book Reviews Web Application
-
-**Node.js / Express** | IBM coursework | [Source](https://github.com/divitbatra/Book-Reviews-Web-Application)
-
-An API for searching books and adding, updating, or deleting user-associated reviews. Separate routers organize public and review operations, with asynchronous lookups and in-memory sample data.
-
 ## Toolbox
 
-The common threads: HTTP APIs, relational modeling, and hosted AI services.
+The common threads: HTTP APIs, data cleaning and visualization, relational modeling, and hosted AI services.
 
 Alongside these projects, I'm studying the foundations of Computing Science.
 
